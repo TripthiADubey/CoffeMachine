@@ -1,0 +1,3 @@
+{"name": "latte", "cost": 40, "ingredients": {"water": 200, "milk": 150, "coffee": 24, "Tea": 0}}
+{"name": "tea", "cost": 15, "ingredients": {"water": 50, "milk": 100, "coffee": 0, "Tea": 10}}
+{"name": "coffee", "cost": 20, "ingredients": {"water": 50, "milk": 250, "coffee": 24, "Tea": 0}}
