@@ -30,7 +30,7 @@ coffee_maker = CoffeeMaker()
 is_on = True
 
 
-def startup():
+def startupApp():
     global is_on
     while is_on:
         welcome()
@@ -60,4 +60,4 @@ def startup():
 
 
 if __name__ == '__main__':
-    startup()
+    startupApp()
