@@ -37,6 +37,8 @@ def startupApp():
         options = menu.read_item_data()
         user_choice = str(input(f'What would you like?\nOptions ( {options} ): ')).strip().lower()
         if user_choice == 'off':
+            print("\nThank you, Hope to see you soon!\n")
+            print("Logging Off\n")
             print('\033[31m<<THE END>>\033[m')
             is_on = False
         elif user_choice == 'report':
