@@ -1,1 +1,1 @@
-{"water": 50, "milk": 100, "coffee": 100, "Tea": 40, "money_collected": 15}
+{"water": 5000, "milk": 10000, "coffee": 1000, "Tea": 4000, "money_collected": 0}
